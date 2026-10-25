@@ -4,7 +4,10 @@
   "type": "post",
   "time": "2026-10-26T18:30:00+01:00",
   "images": [
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-10-26-post-1.jpg"
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-10-26-post-1.jpg",
+    "alt": "Carte Notes d'iPhone sur une photo d'immeuble : GEST'IMMO est de retour."
+   }
   ],
   "caption": "Notre ancien compte a sauté. 1 700 abonnés sont partis avec lui.\n\nOn ne va pas pleurer : on recommence, en mieux.\n\nIci, chaque jour : un chiffre qui pique, une leçon pour apprendre à investir dans l'immobilier, et zéro blabla.\n\nTu nous suivais avant ? Abonne-toi, et identifie en commentaire quelqu'un qui dort sur son Livret A.\n\n#immobilier #investissementlocatif #investirdanslimmobilier #educationfinanciere #gestimmo"
  },
@@ -13,7 +16,10 @@
   "type": "story",
   "time": "2026-10-26T12:30:00+01:00",
   "images": [
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-10-26-story.jpg"
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-10-26-story.jpg",
+    "alt": "Story GEST'IMMO : Tu nous suivais sur l'ancien compte ? Oui / Je découvre"
+   }
   ],
   "sticker": "Sondage : « Tu nous suivais sur l'ancien compte ? Oui / Je découvre »"
  },
@@ -22,9 +28,18 @@
   "type": "post",
   "time": "2026-10-27T18:30:00+01:00",
   "images": [
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-10-27-post-1.jpg",
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-10-27-post-2.jpg",
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-10-27-post-3.jpg"
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-10-27-post-1.jpg",
+    "alt": "Appli bancaire dans un iPhone : ton Livret A fond."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-10-27-post-2.jpg",
+    "alt": "Avec 10 000 € sur un an : 170 € d'intérêts, 310 € de hausse des prix."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-10-27-post-3.jpg",
+    "alt": "On ne vide pas son Livret A, on fait bosser le reste."
+   }
   ],
   "caption": "1,7 %. C'est ce que rapporte ton Livret A depuis le 1er août.\n\nSur un an, les prix ont pris 3,1 % (Insee, septembre).\n\nFais le calcul : ton épargne ne dort pas, elle fond. Environ 1,4 % de pouvoir d'achat en moins par an. Et à 1,7 %, il faut plus de 40 ans pour doubler ton argent.\n\nOn ne te dit pas de vider ton Livret A : garde dessus ton épargne de précaution. Mais le reste mérite mieux qu'une sieste.\n\n#livretA #epargne #inflation #investissementlocatif #gestimmo"
  },
@@ -33,7 +48,10 @@
   "type": "story",
   "time": "2026-10-27T12:30:00+01:00",
   "images": [
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-10-27-story.jpg"
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-10-27-story.jpg",
+    "alt": "Story GEST'IMMO : Combien rapporte le Livret A aujourd'hui ? 1,7 % / 3 % / 5 %"
+   }
   ],
   "sticker": "Quiz : « Combien rapporte le Livret A aujourd'hui ? 1,7 % / 3 % / 5 % » (bonne réponse : 1,7 %)"
  },
@@ -42,7 +60,10 @@
   "type": "post",
   "time": "2026-10-28T18:30:00+01:00",
   "images": [
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-10-28-post-1.jpg"
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-10-28-post-1.jpg",
+    "alt": "Plan GPS avec la fiche de la Cité Frugès de Le Corbusier à Pessac."
+   }
   ],
   "caption": "Le saviez-vous ? Le Corbusier a construit en Gironde.\n\nDans les années 1920, l'industriel bordelais Henri Frugès lui commande des logements pour ses ouvriers à Pessac : la Cité Frugès. Des maisons en béton, colorées, très en avance sur leur temps.\n\nMal comprises à l'époque, elles sont aujourd'hui inscrites au patrimoine mondial de l'UNESCO.\n\nMorale : un bon investissement immobilier, c'est souvent celui que personne ne comprend encore.\n\nTu connaissais ?\n\n#lecorbusier #pessac #bordeaux #architecture #patrimoine #gestimmo"
  },
@@ -51,7 +72,10 @@
   "type": "story",
   "time": "2026-10-28T12:30:00+01:00",
   "images": [
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-10-28-story.jpg"
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-10-28-story.jpg",
+    "alt": "Story GEST'IMMO : Où se trouve la Cité Frugès ? Pessac / Mérignac / Talence"
+   }
   ],
   "sticker": "Quiz : « Où se trouve la Cité Frugès ? Pessac / Mérignac / Talence » (bonne réponse : Pessac)"
  },
@@ -60,10 +84,22 @@
   "type": "post",
   "time": "2026-10-29T18:30:00+01:00",
   "images": [
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-10-29-post-1.jpg",
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-10-29-post-2.jpg",
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-10-29-post-3.jpg",
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-10-29-post-4.jpg"
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-10-29-post-1.jpg",
+    "alt": "Ce que 50 000 € achètent dans quatre villes."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-10-29-post-2.jpg",
+    "alt": "Plans à l'échelle : 5 m² à Paris, 11 m² à Bordeaux, 14 m² à Marseille et Toulouse."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-10-29-post-3.jpg",
+    "alt": "Podium du rendement brut : Marseille, Toulouse, Bordeaux, puis Paris."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-10-29-post-4.jpg",
+    "alt": "Conversation Messages : tu investis où ?"
+   }
   ],
   "caption": "50 000 €, quatre villes.\n\nÀ Paris, un appartement se vend en moyenne 9 630 € le m² : avec 50 000 €, tu t'offres 5 m². Un placard, avec vue. À Bordeaux (4 448 € le m²), c'est 11 m². À Marseille et à Toulouse (autour de 3 600 € le m²), 14 m².\n\nEt côté loyers ? Rendement brut moyen : 4,1 % à Paris, 4,6 % à Bordeaux, 5,2 % à Toulouse et 5,6 % à Marseille. La ville la plus chère est celle qui rapporte le moins.\n\nAttention, c'est du brut : avant charges, impôts et mois sans locataire. On en parle demain.\n\nLa bonne ville, c'est ton objectif qui la choisit : la revente et le patrimoine, ou le loyer. Toi, tu investis où ?\n\n#bordeaux #paris #toulouse #marseille #prixdelimmobilier #investissementlocatif #gestimmo"
  },
@@ -72,7 +108,10 @@
   "type": "story",
   "time": "2026-10-29T12:30:00+01:00",
   "images": [
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-10-29-story.jpg"
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-10-29-story.jpg",
+    "alt": "Story GEST'IMMO : Paris, Bordeaux, Toulouse ou Marseille ?"
+   }
   ],
   "sticker": "Sondage à 4 choix : « Paris, Bordeaux, Toulouse ou Marseille ? »"
  },
@@ -81,10 +120,22 @@
   "type": "post",
   "time": "2026-10-30T18:30:00+01:00",
   "images": [
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-10-30-post-1.jpg",
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-10-30-post-2.jpg",
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-10-30-post-3.jpg",
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-10-30-post-4.jpg"
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-10-30-post-1.jpg",
+    "alt": "Le Dico de l'immo numéro 1 : rendement brut."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-10-30-post-2.jpg",
+    "alt": "Définition et exemple : 7 200 € de loyers divisés par 80 000 €, 9 % brut."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-10-30-post-3.jpg",
+    "alt": "Ticket de caisse : ce que le brut oublie de te dire."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-10-30-post-4.jpg",
+    "alt": "La règle d'or : on n'achète jamais sur le brut."
+   }
   ],
   "caption": "Le rendement brut, c'est le chiffre préféré des vendeurs.\n\nExemple : un appartement acheté 80 000 €, loué 600 € par mois. 7 200 € de loyers par an divisés par 80 000 €, ça fait 9 % brut. Joli.\n\nMaintenant, retire la taxe foncière, les charges que tu ne peux pas refacturer, l'assurance, un ou deux mois sans locataire, et les frais de notaire payés à l'achat. Ce qui reste, c'est ton rendement net. Et lui, il est toujours plus petit.\n\nRègle simple : on n'achète jamais sur le brut.\n\nTu veux le calcul complet sur un exemple ? Écris NET en commentaire.\n\n#rendementlocatif #investissementlocatif #educationfinanciere #gestimmo"
  },
@@ -93,7 +144,10 @@
   "type": "story",
   "time": "2026-10-30T12:30:00+01:00",
   "images": [
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-10-30-story.jpg"
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-10-30-story.jpg",
+    "alt": "Story GEST'IMMO : Bien à 80 000 €, loué 600 € par mois. Rendement brut ? 6 % / 9 % / 12 %"
+   }
   ],
   "sticker": "Quiz : « Bien à 80 000 €, loué 600 € par mois. Rendement brut ? 6 % / 9 % / 12 % » (bonne réponse : 9 %)"
  },
@@ -102,7 +156,10 @@
   "type": "post",
   "time": "2026-10-31T18:30:00+01:00",
   "images": [
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-10-31-post-1.jpg"
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-10-31-post-1.jpg",
+    "alt": "Écran verrouillé d'Halloween : le vrai film d'horreur, c'est le crédit immobilier."
+   }
   ],
   "caption": "Le vrai film d'horreur de ce soir.\n\nUn prêt de 250 000 € sur 20 ans au taux moyen d'octobre (3,55 %), c'est 1 456 € par mois et près de 100 000 € d'intérêts. Hors assurance.\n\nÇa fait peur ? Normal.\n\nSauf quand c'est un locataire qui rembourse une grosse partie de la mensualité. Là, le crédit devient un outil, pas un monstre.\n\nJoyeux Halloween.\n\n#halloween #creditimmobilier #tauximmobilier #investissementlocatif #gestimmo"
  },
@@ -111,7 +168,10 @@
   "type": "story",
   "time": "2026-10-31T12:30:00+01:00",
   "images": [
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-10-31-story.jpg"
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-10-31-story.jpg",
+    "alt": "Story GEST'IMMO : Ce qui te fait le plus peur ? Le crédit / Les travaux / Le locataire qui ne paie pas / La taxe foncière"
+   }
   ],
   "sticker": "Sondage à 4 choix : « Ce qui te fait le plus peur ? Le crédit / Les travaux / Le locataire qui ne paie pas / La taxe foncière »"
  },
@@ -120,7 +180,10 @@
   "type": "post",
   "time": "2026-11-01T18:30:00+01:00",
   "images": [
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-01-post-1.jpg"
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-01-post-1.jpg",
+    "alt": "Lecteur audio : mon épargne fait la sieste."
+   }
   ],
   "caption": "Dimanche. Toi, tu te reposes. Normal.\n\nMais ton argent, il fait quoi ? S'il dort sur un compte courant, il perd de la valeur pendant ta grasse matinée (3,1 % d'inflation sur un an).\n\nInvestir, ce n'est pas réservé aux riches ni aux experts. Ça s'apprend. C'est exactement ce qu'on fait ici, tous les jours.\n\nTu veux qu'on regarde ta situation ? Envoie INVESTIR en message privé.\n\n#investir #immobilier #educationfinanciere #gestimmo"
  },
@@ -129,7 +192,10 @@
   "type": "story",
   "time": "2026-11-01T12:30:00+01:00",
   "images": [
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-01-story.jpg"
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-01-story.jpg",
+    "alt": "Story GEST'IMMO : De quoi on parle la semaine prochaine ?"
+   }
   ],
   "sticker": "Boîte à questions : « De quoi on parle la semaine prochaine ? »"
  },
@@ -138,7 +204,10 @@
   "type": "post",
   "time": "2026-11-02T18:30:00+01:00",
   "images": [
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-02-post-1.jpg"
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-02-post-1.jpg",
+    "alt": "Menu de restaurant : 10 000 €, c'est l'entrée. Frais de notaire, crédit et loyers."
+   }
   ],
   "caption": "« J'ai 10 000 €, je peux investir dans l'immo ? »\n\nOui. Mais pas comme tu crois : 10 000 €, ce n'est pas un appart. C'est l'entrée.\n\nSur un appart ancien à 130 000 € en Gironde, les frais de notaire tournent autour de 10 000 €. Ton billet sert à ça : payer les frais, pour que la banque finance le reste.\n\nLe plat, c'est le crédit. La règle des banques en 2026 : 35 % d'endettement maximum, assurance comprise, sur 25 ans maximum.\n\nLe dessert, c'est ton locataire qui l'offre, chaque mois.\n\nEt garde une réserve pour les imprévus : un chauffe-eau qui lâche n'attend pas.\n\nTu as un apport et tu ne sais pas quoi en faire ? Écris MENU en commentaire.\n\n#investirdanslimmobilier #apport #investissementlocatif #creditimmobilier #gestimmo"
  },
@@ -147,7 +216,10 @@
   "type": "story",
   "time": "2026-11-02T12:30:00+01:00",
   "images": [
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-02-story.jpg"
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-02-story.jpg",
+    "alt": "Story GEST'IMMO : Ton apport, il ressemble à quoi ? 0 € / Moins de 10 k€ / 10 à 30 k€ / Plus de 30 k€"
+   }
   ],
   "sticker": "Sondage à 4 choix, sur l'écran du distributeur : « Ton apport, il ressemble à quoi ? 0 € / Moins de 10 k€ / 10 à 30 k€ / Plus de 30 k€ »"
  },
@@ -156,7 +228,10 @@
   "type": "post",
   "time": "2026-11-03T18:30:00+01:00",
   "images": [
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-03-post-1.jpg"
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-03-post-1.jpg",
+    "alt": "Appli météo dans un iPhone : les taux immobiliers autour de 3,5 % sur 20 ans."
+   }
   ],
   "caption": "Bulletin météo du crédit immo : nuageux, en hausse.\n\nEn octobre 2026, les taux moyens négociés tournent autour de 3,4 % sur 15 ans, 3,5 % sur 20 ans et 3,6 % sur 25 ans. Ils approchent les 4 %, et Meilleurtaux s'attend à ce que la hausse continue jusqu'à la fin de l'année.\n\nPour rappel, en janvier 2022, on empruntait en moyenne à 1,07 %. Il y a même pas cinq ans.\n\nFaut-il attendre que ça redescende ? Personne n'a la boule de cristal, même pas nous. Ce qui compte, c'est que ton projet tienne avec les taux d'aujourd'hui : loyer, mensualité, cash-flow.\n\nTu veux savoir si ton projet passe la météo ? Écris PARAPLUIE en commentaire.\n\n#tauximmobilier #creditimmobilier #investissementlocatif #gestimmo"
  },
@@ -165,7 +240,10 @@
   "type": "story",
   "time": "2026-11-03T12:30:00+01:00",
   "images": [
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-03-story.jpg"
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-03-story.jpg",
+    "alt": "Story GEST'IMMO : Les taux à 3,5 %, ça te fait quoi ?"
+   }
   ],
   "sticker": "Curseur emoji, à côté du thermomètre : « Les taux à 3,5 %, ça te fait quoi ? » (🥶 → 🔥)"
  },
@@ -174,7 +252,10 @@
   "type": "post",
   "time": "2026-11-04T18:30:00+01:00",
   "images": [
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-04-post-1.jpg"
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-04-post-1.jpg",
+    "alt": "Carte postale illustrée d'une échoppe bordelaise : la maison qui n'a pas d'étage."
+   }
   ],
   "caption": "Le saviez-vous ? Bordeaux a sa maison à elle : l'échoppe.\n\nConstruite entre 1850 et 1930, en pierre calcaire, de plain-pied, avec un jardin à l'arrière. À l'origine, une maison d'ouvriers et d'artisans.\n\nLa simple a 5 à 6 m de façade, un couloir et trois pièces en enfilade. La double fait 8 à 10 m, avec un couloir au milieu et des pièces de chaque côté.\n\nEn 1995, on en comptait environ 11 000 dans Bordeaux. Comme quoi, pas besoin d'étage pour avoir du caractère.\n\nTeam échoppe ou team appart ? Dis-le en commentaire.\n\n#bordeaux #echoppe #echoppebordelaise #patrimoine #architecture #gestimmo"
  },
@@ -183,7 +264,10 @@
   "type": "story",
   "time": "2026-11-04T12:30:00+01:00",
   "images": [
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-04-story.jpg"
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-04-story.jpg",
+    "alt": "Story GEST'IMMO : Une échoppe bordelaise, c'est… une cabane de pêcheur / une maison de plain-pied en pierre / une boutique de vin"
+   }
   ],
   "sticker": "Quiz, sur la copie d'interro : « Une échoppe bordelaise, c'est… une cabane de pêcheur / une maison de plain-pied en pierre / une boutique de vin » (bonne réponse : la maison de plain-pied)"
  },
@@ -192,10 +276,22 @@
   "type": "post",
   "time": "2026-11-05T18:30:00+01:00",
   "images": [
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-05-post-1.jpg",
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-05-post-2.jpg",
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-05-post-3.jpg",
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-05-post-4.jpg"
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-05-post-1.jpg",
+    "alt": "Le Dico de l'immo numéro 2 : frais de notaire."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-05-post-2.jpg",
+    "alt": "Pizza des frais de notaire : environ quatre cinquièmes partent en impôts."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-05-post-3.jpg",
+    "alt": "Exemple à 200 000 € à Bordeaux : 15 231 € de frais, près de 8 % du prix."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-05-post-4.jpg",
+    "alt": "Étiquettes : ancien 7 à 8 %, neuf 2 à 3 %."
+   }
   ],
   "caption": "Les frais de notaire, le nom le plus trompeur de l'immobilier.\n\nQuand tu achètes dans l'ancien, tu paies environ 7 à 8 % du prix en plus. Mais le notaire n'en garde qu'une petite part : environ quatre cinquièmes partent en impôts.\n\nExemple à Bordeaux, appart ancien à 200 000 €, hors premier achat : 12 637 € de droits de mutation, 2 394 € pour le notaire, 200 € de contribution de sécurité immobilière, plus les débours. Près de 8 % du prix.\n\nPourquoi si cher en Gironde ? Le département fait partie de ceux qui ont monté leur taux à 5 % en 2025. Bonne nouvelle si c'est ton premier achat pour y vivre : cette hausse ne s'applique pas à toi.\n\nDans le neuf, compte plutôt 2 à 3 %.\n\nEnregistre ce post pour ton prochain achat. Et écris NOTAIRE en commentaire si tu veux qu'on calcule les tiens.\n\n#fraisdenotaire #achatimmobilier #bordeaux #investissementlocatif #gestimmo"
  },
@@ -204,7 +300,10 @@
   "type": "story",
   "time": "2026-11-05T12:30:00+01:00",
   "images": [
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-05-story.jpg"
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-05-story.jpg",
+    "alt": "Story GEST'IMMO : Les frais de notaire, c'est surtout pour le notaire. Vrai / Faux"
+   }
   ],
   "sticker": "Quiz vrai ou faux, sous les buzzers : « Les frais de notaire, c'est surtout pour le notaire. Vrai / Faux » (bonne réponse : faux)"
  },
@@ -213,9 +312,18 @@
   "type": "post",
   "time": "2026-11-06T18:30:00+01:00",
   "images": [
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-06-post-1.jpg",
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-06-post-2.jpg",
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-06-post-3.jpg"
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-06-post-1.jpg",
+    "alt": "Écran de jeu de combat : SCI contre nom propre."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-06-post-2.jpg",
+    "alt": "Fiches des deux combattants : SCI et nom propre."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-06-post-3.jpg",
+    "alt": "Pas de K.O. : ça dépend de ton projet."
+   }
   ],
   "caption": "Le match du vendredi : SCI contre nom propre.\n\nLa SCI, c'est l'investissement à plusieurs : deux associés minimum, pas de capital minimum, mais des statuts, une annonce légale et une immatriculation. Elle est à l'impôt sur le revenu par défaut, avec une option pour l'impôt sur les sociétés, sans retour possible. Son coup spécial : transmettre en douceur, en donnant des parts.\n\nLe nom propre, c'est la simplicité : aucune formalité. En location nue, si tes loyers restent sous 15 000 € par an, tu as le micro-foncier et son abattement de 30 %. En meublé, il y a le statut LMNP.\n\nLe piège à connaître : une SCI qui loue en meublé de façon habituelle passe à l'impôt sur les sociétés.\n\nVerdict : pas de K.O. Le bon choix dépend de ton projet : seul ou à plusieurs, nu ou meublé, transmission ou pas.\n\nTu hésites ? Écris SCI en commentaire, on regarde ton cas.\n\n#sci #investissementlocatif #lmnp #fiscaliteimmobiliere #gestimmo"
  },
@@ -224,7 +332,10 @@
   "type": "story",
   "time": "2026-11-06T12:30:00+01:00",
   "images": [
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-06-story.jpg"
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-06-story.jpg",
+    "alt": "Story GEST'IMMO : SCI ou nom propre ?"
+   }
   ],
   "sticker": "Sondage, sous les pièces : « SCI ou nom propre ? »"
  },
@@ -233,7 +344,10 @@
   "type": "post",
   "time": "2026-11-07T18:30:00+01:00",
   "images": [
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-07-post-1.jpg"
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-07-post-1.jpg",
+    "alt": "Suivi de livraison dans un iPhone : ton locataire est en cours de livraison."
+   }
   ],
   "caption": "Ton locataire est en cours de livraison.\n\nPendant que tu vis ta vie, on s'occupe de tout : annonce et photos, visites, vérification du dossier, bail, état des lieux et remise des clés.\n\nToi, tu reçois juste la notification : « Livré ».\n\nPropriétaire à Bordeaux ? Envoie LOCATION en message privé, on te rappelle.\n\n#gestionlocative #miseenlocation #bordeaux #proprietairebailleur #gestimmo"
  },
@@ -242,7 +356,10 @@
   "type": "story",
   "time": "2026-11-07T12:30:00+01:00",
   "images": [
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-07-story.jpg"
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-07-story.jpg",
+    "alt": "Story GEST'IMMO : Propriétaire ? Glisse ta question sur la mise en location"
+   }
   ],
   "sticker": "Boîte à questions, sous la boîte aux lettres : « Propriétaire ? Glisse ta question sur la mise en location »"
  },
@@ -251,7 +368,10 @@
   "type": "post",
   "time": "2026-11-08T18:30:00+01:00",
   "images": [
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-08-post-1.jpg"
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-08-post-1.jpg",
+    "alt": "Plan de métro : acheter ou louer, prends la bonne ligne."
+   }
   ],
   "caption": "Acheter ou louer sa résidence principale ? Le débat de tous les repas de famille.\n\nSpoiler : louer, ce n'est pas « jeter l'argent par les fenêtres ». Et acheter, ce n'est pas toujours la bonne affaire.\n\nTrois questions pour choisir ta ligne :\n\n1. Tu restes plusieurs années au même endroit ? Les frais d'achat, environ 7 à 8 % du prix dans l'ancien, mettent du temps à s'amortir.\n2. Tu as de côté au moins ces frais ? Les banques aiment que l'apport les couvre.\n3. Ta mensualité tient sous 35 % de tes revenus, assurance comprise ?\n\nTrois oui : direction l'achat. Un non : louer et épargner, ce n'est pas un échec, c'est une étape.\n\nTu descends à quelle station ? Dis-le en commentaire.\n\n#acheteroulouer #residenceprincipale #premierachat #immobilier #gestimmo"
  },
@@ -260,7 +380,10 @@
   "type": "story",
   "time": "2026-11-08T12:30:00+01:00",
   "images": [
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-08-story.jpg"
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-08-story.jpg",
+    "alt": "Story GEST'IMMO : Acheter ou louer ?"
+   }
   ],
   "sticker": "Sondage, sous les panneaux : « Acheter ou louer ? »"
  },
@@ -269,7 +392,10 @@
   "type": "post",
   "time": "2026-11-09T18:30:00+01:00",
   "images": [
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-09-post-1.jpg"
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-09-post-1.jpg",
+    "alt": "Carton de bingo du quartier sur une photo de la place de la Bourse à Bordeaux."
+   }
   ],
   "caption": "Tu tombes amoureux d'un appart ? Avant de signer, fais le bingo du quartier.\n\nTram à pied, boulangerie, école, parc, commerces, calme le soir, médecin, pharmacie… Et les cases qu'on oublie : les projets urbains prévus juste à côté, le bar sous la fenêtre, le prix au m² comparé à la rue d'à côté.\n\nLe conseil GEST'IMMO : reviens le soir et le week-end. Un quartier ne vit pas pareil un mardi à 11 h et un samedi à 23 h.\n\nUn appart, ça se rénove. Un quartier, non.\n\nCombien de cases tu coches chez toi ? Dis-le en commentaire.\n\n#quartier #bordeaux #achatimmobilier #investissementlocatif #gestimmo"
  },
@@ -278,7 +404,10 @@
   "type": "story",
   "time": "2026-11-09T12:30:00+01:00",
   "images": [
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-09-story.jpg"
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-09-story.jpg",
+    "alt": "Story GEST'IMMO : Ton quartier idéal : animé, calme, nature ou pratique ?"
+   }
   ],
   "sticker": "Sondage à 4 choix, sur la boussole : « Ton quartier idéal : animé, calme, nature ou pratique ? »"
  },
@@ -287,7 +416,10 @@
   "type": "post",
   "time": "2026-11-10T18:30:00+01:00",
   "images": [
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-10-post-1.jpg"
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-10-post-1.jpg",
+    "alt": "Cartons rouge et jaune sur l'échelle du DPE : G interdit depuis 2025, F en 2028, E en 2034."
+   }
   ],
   "caption": "Carton rouge pour les passoires thermiques.\n\nDepuis le 1er janvier 2025, un logement classé G ne peut plus être loué : ni nouveau bail, ni renouvellement, ni reconduction. Les F suivent en 2028, les E en 2034.\n\nEt ça s'ajoute au gel des loyers des logements F et G, en vigueur depuis le 24 août 2022.\n\nLe rebondissement de 2026 : depuis le 1er janvier, le calcul du DPE compte l'électricité autrement (le coefficient est passé de 2,3 à 1,9). Certains logements chauffés à l'électricité changent de classe sans aucun travaux.\n\nTon bien est en F ou en G ? Refais le point sur ton DPE, puis prévois les travaux avant de te faire sortir du terrain.\n\nÉcris DPE en commentaire, on t'explique par où commencer.\n\n#dpe #passoirethermique #renovationenergetique #proprietairebailleur #gestimmo"
  },
@@ -296,7 +428,10 @@
   "type": "story",
   "time": "2026-11-10T12:30:00+01:00",
   "images": [
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-10-story.jpg"
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-10-story.jpg",
+    "alt": "Story GEST'IMMO : Ton logement, il a quelle lettre ? A-B-C / D-E / F-G / Je ne sais pas"
+   }
   ],
   "sticker": "Sondage à 4 choix, sur l'étiquette : « Ton logement, il a quelle lettre ? A-B-C / D-E / F-G / Je ne sais pas »"
  },
@@ -305,7 +440,10 @@
   "type": "post",
   "time": "2026-11-11T18:30:00+01:00",
   "images": [
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-11-post-1.jpg"
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-11-post-1.jpg",
+    "alt": "Façade haussmannienne annotée : balcons filants au 2e et au 5e étage."
+   }
   ],
   "caption": "Le saviez-vous ? Sur un immeuble haussmannien, les balcons qui courent sur toute la façade sont au 2e et au 5e étage.\n\nLe 2e, c'était l'étage noble, le plus recherché : grandes fenêtres, lumière, balcon filant.\n\nLe 5e a aussi son balcon filant, surtout pour l'harmonie de la façade. Et tout en haut, sous les toits, les chambres de bonne.\n\nAujourd'hui, c'est l'inverse : les derniers étages, avec la vue et le calme, sont devenus les plus recherchés.\n\nBon à savoir si tu investis dans une ancienne chambre de bonne : pour être louée, elle doit faire au moins 9 m² avec 2,20 m sous plafond, ou 20 m³.\n\nTu vivrais à quel étage ?\n\n#haussmann #architecture #paris #patrimoine #immobilier #gestimmo"
  },
@@ -314,7 +452,10 @@
   "type": "story",
   "time": "2026-11-11T12:30:00+01:00",
   "images": [
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-11-story.jpg"
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-11-story.jpg",
+    "alt": "Story GEST'IMMO : Tu vivrais à quel étage ? Sous les toits / Le 5e pour la vue / L'étage noble / Rez-de-chaussée"
+   }
   ],
   "sticker": "Sondage à 4 choix, sur les boutons d'ascenseur : « Tu vivrais à quel étage ? Sous les toits / Le 5e pour la vue / L'étage noble / Rez-de-chaussée »"
  },
@@ -323,10 +464,22 @@
   "type": "post",
   "time": "2026-11-12T18:30:00+01:00",
   "images": [
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-12-post-1.jpg",
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-12-post-2.jpg",
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-12-post-3.jpg",
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-12-post-4.jpg"
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-12-post-1.jpg",
+    "alt": "Le Dico de l'immo numéro 3 : cash-flow."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-12-post-2.jpg",
+    "alt": "Balance : le loyer d'un côté, crédit, charges, taxe foncière et assurances de l'autre."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-12-post-3.jpg",
+    "alt": "Exemple fictif : studio à 130 000 €, cash-flow de moins 138 € par mois."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-12-post-4.jpg",
+    "alt": "Les 4 curseurs du cash-flow : prix, apport, durée, loyer."
+   }
   ],
   "caption": "Le cash-flow, c'est le chiffre qui dit si ton appart te paie… ou si c'est toi qui le paies.\n\nLe calcul : le loyer encaissé, moins tout ce que le bien te coûte chaque mois. Crédit, assurance du prêt, taxe foncière, charges non récupérables, assurance du propriétaire.\n\nExemple fictif : un studio acheté 130 000 €, loué 650 € par mois, financé sur 25 ans à 3,6 %. La mensualité seule fait 658 €. Avec le reste, tu remets 138 € de ta poche chaque mois.\n\nMauvais investissement ? Pas forcément : pendant ce temps, tu rembourses du capital. Mais il faut le savoir avant de signer, pas après.\n\nLes 4 curseurs pour changer la couleur : le prix d'achat, l'apport, la durée du crédit et le loyer.\n\nÉcris CASH en commentaire, on calcule le tien.\n\n#cashflow #investissementlocatif #rendementlocatif #educationfinanciere #gestimmo"
  },
@@ -335,7 +488,10 @@
   "type": "story",
   "time": "2026-11-12T12:30:00+01:00",
   "images": [
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-12-story.jpg"
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-12-story.jpg",
+    "alt": "Story GEST'IMMO : Ton cash-flow : négatif, à l'équilibre ou positif ?"
+   }
   ],
   "sticker": "Sondage, à côté du feu : « Ton cash-flow : négatif, à l'équilibre ou positif ? »"
  },
@@ -344,10 +500,22 @@
   "type": "post",
   "time": "2026-11-13T18:30:00+01:00",
   "images": [
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-13-post-1.jpg",
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-13-post-2.jpg",
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-13-post-3.jpg",
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-13-post-4.jpg"
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-13-post-1.jpg",
+    "alt": "Vendredi 13 : trois cartes de tarot face cachée."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-13-post-2.jpg",
+    "alt": "Cartes La Maison Dieu et Le Diable : logement classé G et état des lieux de sortie."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-13-post-3.jpg",
+    "alt": "Cartes La Lune et L'Hermite : dépôt de garantie et assurance PNO."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-13-post-4.jpg",
+    "alt": "Carte La Roue de Fortune : dépôt de garantie rendu en retard."
+   }
   ],
   "caption": "Vendredi 13. On a tiré les cartes pour toi, propriétaire.\n\nLa Maison Dieu : louer un logement classé G. Interdit pour tout nouveau bail depuis 2025.\n\nLe Diable : pas d'état des lieux de sortie signé. Sans lui, tu ne peux rien retenir sur le dépôt de garantie.\n\nLa Lune : demander deux mois de dépôt de garantie en location vide. Le maximum, c'est un mois de loyer hors charges (deux en meublé).\n\nL'Hermite : pas d'assurance PNO en copropriété. Elle est obligatoire depuis la loi Alur.\n\nLa Roue de Fortune : rendre le dépôt de garantie en retard. C'est un mois après la remise des clés si tout est conforme, deux sinon. Au-delà, 10 % du loyer en plus par mois de retard commencé.\n\nBonne nouvelle : aucune de ces malédictions n'est une fatalité. On les évite toutes pour toi.\n\nTu as déjà tiré une de ces cartes ? Raconte en commentaire.\n\n#vendredi13 #proprietairebailleur #gestionlocative #depotdegarantie #gestimmo"
  },
@@ -356,7 +524,10 @@
   "type": "story",
   "time": "2026-11-13T12:30:00+01:00",
   "images": [
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-13-story.jpg"
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-13-story.jpg",
+    "alt": "Story GEST'IMMO : Pose ta question immo à la boule de cristal"
+   }
   ],
   "sticker": "Boîte à questions, sous la boule de cristal : « Pose ta question immo à la boule de cristal »"
  },
@@ -365,8 +536,14 @@
   "type": "post",
   "time": "2026-11-14T18:30:00+01:00",
   "images": [
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-14-post-1.jpg",
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-14-post-2.jpg"
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-14-post-1.jpg",
+    "alt": "Jeu des 7 différences entre l'entrée et la sortie d'un logement."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-14-post-2.jpg",
+    "alt": "Solution des 7 différences et ce que dit la loi sur l'état des lieux."
+   }
   ],
   "caption": "Le jeu des 7 différences, version état des lieux. Trouve-les toutes avant de glisser.\n\nEn haut, l'entrée. En bas, la sortie. Entre les deux : une vitre fêlée, un cadre arraché, une tache, un parquet rayé…\n\nC'est pour ça que l'état des lieux d'entrée est obligatoire et joint au bail. Ton locataire a 10 jours pour le compléter, et le premier mois de chauffe pour le chauffage.\n\nÀ la sortie, on compare. Dépôt de garantie rendu sous un mois si tout est conforme, deux mois sinon.\n\nLe conseil GEST'IMMO : des photos datées, pièce par pièce. Personne ne se souvient de l'état des joints trois ans plus tard.\n\nTu en as trouvé combien ?\n\n#etatdeslieux #gestionlocative #proprietairebailleur #locataire #gestimmo"
  },
@@ -375,7 +552,10 @@
   "type": "story",
   "time": "2026-11-14T12:30:00+01:00",
   "images": [
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-14-story.jpg"
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-14-story.jpg",
+    "alt": "Story GEST'IMMO : Combien de temps pour compléter l'état des lieux d'entrée ? 48 h / 10 jours / 1 mois"
+   }
   ],
   "sticker": "Quiz, sous le chronomètre : « Combien de temps pour compléter l'état des lieux d'entrée ? 48 h / 10 jours / 1 mois » (bonne réponse : 10 jours)"
  },
@@ -384,7 +564,10 @@
   "type": "post",
   "time": "2026-11-15T18:30:00+01:00",
   "images": [
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-15-post-1.jpg"
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-15-post-1.jpg",
+    "alt": "Moodboard de quatre salons : loft brique, bohème, minimal, velours chic."
+   }
   ],
   "caption": "Dimanche déco. Ton salon idéal, c'est le 1, le 2, le 3 ou le 4 ?\n\n1. Loft brique\n2. Bohème\n3. Minimal\n4. Velours chic\n\nLe bonus de l'investisseur : un intérieur neutre et lumineux plaît à plus de monde, à la location comme à la revente. Ta déco perso, garde-la pour chez toi.\n\nRéponds avec ton numéro en commentaire.\n\n#deco #salon #homestaging #immobilier #gestimmo"
  },
@@ -393,7 +576,10 @@
   "type": "story",
   "time": "2026-11-15T12:30:00+01:00",
   "images": [
-   "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-15-story.jpg"
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/images/2026-11-15-story.jpg",
+    "alt": "Story GEST'IMMO : Ton salon préféré : 1, 2, 3 ou 4 ?"
+   }
   ],
   "sticker": "Sondage à 4 choix, sur la télécommande : « Ton salon préféré : 1, 2, 3 ou 4 ? »"
  }
