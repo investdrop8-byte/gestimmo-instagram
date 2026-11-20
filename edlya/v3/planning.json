@@ -213,7 +213,8 @@
     "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/edlya/v3/images/2026-11-19-post-1.jpg",
     "alt": "Faux post du stylo 4 couleurs qui annonce son nouveau poste : il signe les cartes d'anniversaire du service compta. À côté, deux vrais stylos."
    }
-  ]
+  ],
+  "note": "Pas publié le 19/11 : reporté au 26/11."
  },
  {
   "date": "2026-11-19",
@@ -380,6 +381,104 @@
    {
     "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/edlya/v3/images/2026-11-25-post-1.jpg",
     "alt": "Profil d'appli de rencontre de l'état des lieux papier, 12 ans : les ratures, le café renversé, aucune photo. Swipe à gauche."
+   }
+  ]
+ },
+ {
+  "date": "2026-11-26",
+  "type": "post",
+  "time": "2026-11-26T12:30:00+01:00",
+  "title": "Le stylo 4 couleurs a retrouvé du travail",
+  "caption": "Des nouvelles du stylo 4 couleurs. Il va bien.\n\nAprès sa démission, il a retrouvé un poste : il signe les cartes d'anniversaire du service compta. Le vert sert enfin.\n\nDe notre côté, les états des lieux se font sur téléphone : photos datées, signature sur l'écran, PDF envoyé.\n\nLaisse-lui un mot en commentaire, il lit tout.\n\n👉 1er état des lieux offert : lien en bio\n\n#etatdeslieux #reconversion #agentimmobilier #gestionlocative #edlya",
+  "source": "v3-post-stylo",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/edlya/v3/images/2026-11-26-post-1.jpg",
+    "alt": "Faux post du stylo 4 couleurs qui annonce son nouveau poste : il signe les cartes d'anniversaire du service compta. À côté, deux vrais stylos."
+   }
+  ]
+ },
+ {
+  "date": "2026-11-27",
+  "type": "post",
+  "time": "2026-11-27T12:30:00+01:00",
+  "title": "Black Friday : -100 %",
+  "caption": "Black Friday : tout le monde casse ses prix. Nous, on a cassé le nôtre depuis longtemps.\n\nTon 1er état des lieux sur EDLYA est offert. Pas de compte à rebours, pas de « dernières heures » : ça marche aussi lundi.\n\nTu télécharges l'appli, tu crées ton compte, et tu fais ton prochain état des lieux sur ton téléphone : photos datées, compteurs, clés, signature sur place, PDF envoyé.\n\n👉 1er état des lieux offert : lien en bio\n\n#blackfriday #etatdeslieux #gestionlocative #proprietairebailleur #edlya",
+  "source": "v4-post-black-friday",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/edlya/v3/images/2026-11-27-post-1.jpg",
+    "alt": "Barnaby, le lion d'EDLYA, tient son téléphone à côté d'une étiquette jaune : Black Friday, -100 % sur ton 1er état des lieux. Valable toute l'année."
+   }
+  ]
+ },
+ {
+  "date": "2026-11-28",
+  "type": "post",
+  "time": "2026-11-28T12:30:00+01:00",
+  "title": "5 photos qu'on oublie toujours à l'entrée",
+  "caption": "Enregistre ce post avant ta prochaine entrée dans les lieux.\n\nSous l'évier, l'intérieur du four, les joints de la douche, les volets, la cave et la boîte aux lettres : ce sont les endroits qu'on oublie le plus souvent de photographier. Et ce sont souvent eux qui font débat à la sortie.\n\nUne photo de plus à l'entrée, c'est une discussion de moins au moment de rendre le dépôt de garantie.\n\nSur EDLYA, chaque photo est datée et rangée pièce par pièce.\n\nTu ajouterais quoi à la liste ? Dis-le en commentaire.\n\n👉 1er état des lieux offert : lien en bio\n\n#etatdeslieux #checklist #gestionlocative #agenceimmobiliere #edlya",
+  "source": "v4-post-5-photos",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/edlya/v3/images/2026-11-28-post-1.jpg",
+    "alt": "Liste des 5 photos qu'on oublie à l'entrée : sous l'évier, l'intérieur du four, les joints de la douche, les volets, la cave et la boîte aux lettres. Barnaby tient son bloc-notes."
+   }
+  ]
+ },
+ {
+  "date": "2026-11-29",
+  "type": "post",
+  "time": "2026-11-29T12:30:00+01:00",
+  "title": "Le petit dictionnaire de l'état des lieux",
+  "caption": "Édition du dimanche : le petit dictionnaire de l'état des lieux.\n\nRAS, petit trou, légères traces… Des mots que tout le monde comprend, mais pas toujours de la même façon. Surtout entre l'entrée et la sortie.\n\nLa seule définition qui met tout le monde d'accord : la photo datée.\n\nAjoute ta définition en commentaire. Les meilleures iront dans l'édition 2.\n\n👉 1er état des lieux offert : lien en bio\n\n#etatdeslieux #dimanche #immobilier #proprietairebailleur #edlya",
+  "source": "v4-post-dictionnaire",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/edlya/v3/images/2026-11-29-post-1.jpg",
+    "alt": "Page de dictionnaire de l'état des lieux : RAS, petit trou, légères traces, « c'était déjà là », et photo datée : fin du débat."
+   }
+  ]
+ },
+ {
+  "date": "2026-11-30",
+  "type": "post",
+  "time": "2026-11-30T12:30:00+01:00",
+  "title": "Le chauffage repart",
+  "caption": "Le chauffage se rallume, et avec lui une règle qu'on oublie souvent.\n\nAprès l'état des lieux d'entrée, le locataire a 10 jours pour demander à le compléter. Et pendant le premier mois de chauffe, il peut demander d'y ajouter l'état du chauffage. C'est l'article 3-2 de la loi du 6 juillet 1989.\n\nTon locataire est entré cet été ? C'est maintenant qu'il découvre si les radiateurs chauffent.\n\nLe bon réflexe à l'entrée : une photo de chaque radiateur et de la chaudière, même en plein mois d'août.\n\n👉 1er état des lieux offert : lien en bio\n\n#etatdeslieux #chauffage #locataire #gestionlocative #edlya",
+  "source": "v4-post-chauffage",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/edlya/v3/images/2026-11-30-post-1.jpg",
+    "alt": "Radiateur dessiné et deux chiffres : 10 jours après l'état des lieux d'entrée pour le compléter, et le 1er mois de chauffe pour y ajouter le chauffage (loi du 6 juillet 1989, article 3-2)."
+   }
+  ]
+ },
+ {
+  "date": "2026-12-01",
+  "type": "post",
+  "time": "2026-12-01T12:30:00+01:00",
+  "title": "Le calendrier de l'Avent du bailleur",
+  "caption": "1er décembre : on ouvre la case 1 du calendrier de l'Avent du bailleur.\n\nDedans : ton premier état des lieux sur EDLYA, offert.\n\nLes 23 autres cases ? On préfère ne pas savoir. Sûrement un compteur introuvable, une clé en moins et un locataire en retard.\n\nEt toi, tu mettrais quoi dans la case 2 ?\n\n👉 1er état des lieux offert : lien en bio\n\n#calendrierdelavent #etatdeslieux #agenceimmobiliere #immobilier #edlya",
+  "source": "v4-post-avent",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/edlya/v3/images/2026-12-01-post-1.jpg",
+    "alt": "Calendrier de l'Avent de 24 cases. La case 1 est ouverte : ton 1er état des lieux offert."
+   }
+  ]
+ },
+ {
+  "date": "2026-12-02",
+  "type": "post",
+  "time": "2026-12-02T12:30:00+01:00",
+  "title": "Signé sur place. Envoyé avant l'ascenseur.",
+  "caption": "18 h 40, fin de l'état des lieux de sortie. 18 h 42, le PDF est déjà dans la boîte mail du locataire. Toi, tu attends encore l'ascenseur.\n\nSur EDLYA, le bailleur et le locataire signent sur le même écran, et le PDF est envoyé par e-mail ou par lien. Plus de scan à faire le soir en rentrant.\n\nTu envoies ton PDF combien de temps après la signature ? Sois honnête.\n\n👉 1er état des lieux offert : lien en bio\n\n#etatdeslieux #agentimmobilier #gestionlocative #signatureelectronique #edlya",
+  "source": "v4-post-ascenseur",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/investdrop8-byte/gestimmo-instagram/main/edlya/v3/images/2026-12-02-post-1.jpg",
+    "alt": "Écran de l'appli EDLYA : photos datées, compteurs et clés, signatures du locataire et du bailleur, PDF envoyé à 18 h 42. Barnaby tient son bloc-notes."
    }
   ]
  }
